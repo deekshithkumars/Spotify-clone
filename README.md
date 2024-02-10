@@ -1,4 +1,4 @@
-# spotify-clone
+# Spotify-clone
 This repository contains the code for a Spotify Clone built using HTML and CSS. The project aims to replicate the user interface and some functionality of the popular music streaming service Spotify.
 
 # Features:
